@@ -37,9 +37,9 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
         <java.version>1.8</java.version>
-<!--        He didnt add this, but for some reason my repackaging didn't work
+<!--        not needed: He didnt add this, but for some reason my repackaging didn't work
             without declaring the start/main-class explicitly-->
-        <start-class>com.example.springguru.petclinic.sfgspetclinic.SfgsPetClinicApplication</start-class>
+<!--        <start-class>com.example.springguru.petclinic.sfgspetclinic.SfgsPetClinicApplication</start-class>-->
     </properties>
 
     <dependencies>
