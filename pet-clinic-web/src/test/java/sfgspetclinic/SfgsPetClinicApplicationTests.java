@@ -1,4 +1,4 @@
-package com.example.springguru.petclinic.sfgspetclinic;
+package sfgspetclinic;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
